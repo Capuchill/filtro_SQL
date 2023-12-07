@@ -18,6 +18,9 @@
 --
 -- Table structure for table `BUSES`
 --
+CREATE DATABASE TBM;
+
+USE TBM;
 
 DROP TABLE IF EXISTS `BUSES`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
